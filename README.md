@@ -1,5 +1,5 @@
 # 论文订书机
-
+![paperstapler](paperstapler.png)
 ## 论文阅读记录
 该库主要用于记录阅读论文时的笔记
 
